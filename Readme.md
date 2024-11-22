@@ -38,3 +38,23 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/githubusername/pce_bot.git
 git push -u origin main
+
+If you are working on master branch then use these commands
+git init
+git add . 
+git commit -m "first commit"
+git remote add origin https://github.com/githubusername/project.git
+git push -u origin master 
+
+
+
+step-5 : Go to Browser ===> Streamlit cloud ====> Register your account ===> 
+create app ===> Deploy public app  ===> 
+
+
+step-6 : 
+Fill the project repository name 
+Branch 
+In secrets ===> paste all secrets that are available in your .env file 
+
+
